@@ -4,8 +4,8 @@ const { clickOnSearchField } = require('../fixture/youtube.fixture');
 /*
     This test has a fixture that starts all tests from the search bar within the youtube platform.
     Then the searchQuery is typed in and searched for.
-    Then a validation is made to make sure that the title of the second video contains the expectedTitle.
-    Then the second video is clicked into to view as it is the correct expected video result.
+    Then a validation is made to make sure that the title of the first video contains the expectedTitle.
+    Then the first video is clicked into to view as it is the correct expected video result.
 */
 test('Video 2 Test', async ({ page }) => {
     // Use the fixture
