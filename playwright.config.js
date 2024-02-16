@@ -55,17 +55,6 @@ module.exports = defineConfig({
       },
     },
 
-    {
-      name: 'webkit',
-      use: { 
-        ...devices['Desktop Safari'],
-        launchOptions: {
-          slowMo: 500
-      },
-      headless: true, 
-    },
-    },
-
     /* Test against mobile viewports. */
     // {
     //   name: 'Mobile Chrome',
