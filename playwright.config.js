@@ -40,7 +40,7 @@ module.exports = defineConfig({
         launchOptions: {
           slowMo: 500
         },
-        headless: false,
+        headless: true,
       },
     },
 
@@ -51,7 +51,7 @@ module.exports = defineConfig({
         launchOptions: {
           slowMo: 500
         },
-        headless: false, 
+        headless: true, 
       },
     },
 
@@ -62,7 +62,7 @@ module.exports = defineConfig({
         launchOptions: {
           slowMo: 500
       },
-      headless: false, 
+      headless: true, 
     },
     },
 
