@@ -35,15 +35,10 @@ a. Evaluate the search results page to ensure it displays relevant videos matchi
 
 b. Verify that the titles, thumbnails, and descriptions of the videos appear to align with the search query.
 
-# 7.Refine Search (Optional):
-a. If necessary, use the filters or refine options provided by YouTube to narrow down the search results.
-
-b. Filters may include sorting by upload date, view count, duration, or relevance.
-
-# 8. Select a Video:
+# 7. Select a Video:
 a. Click or tap on a video from the search results that seems to meet the criteria of the specific set of videos being searched for.
 
-# 9.Verify Video Content:
+# 8.Verify Video Content:
 a. Verify that the selected video's content corresponds to the search query and meets the expectations.
 
 b. Ensure the video quality, audio, and relevance of the content are satisfactory.
